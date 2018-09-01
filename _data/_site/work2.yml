@@ -1,10 +1,10 @@
 - name: IBM TJ Watson Research
   image: ibm_research.png
-  time: Winter 2016
+  time: Fall 2015
   url: https://www.research.ibm.com/labs/watson/
 - name: Deepmind
   image: deepmind.png
-  time: 2008 - 2009
+  time: Summer 2014
   url: https://deepmind.com/
 - name: Tubitak (Technical and Scientific Research Council of Turkey)
   image: tubitak.jpg
