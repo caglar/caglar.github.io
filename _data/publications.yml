@@ -1,0 +1,253 @@
+- title: "Relational inductive biases, deep learning, and graph networks"
+  time: 1807
+  image: NbodyRelationalInductiveBiases.png
+  description: Why?
+  authors: 
+    - name: Peter W. Battaglia
+    - name: Jessica B. Hamrick
+    - name: Victor Bapst
+    - name: Alvaro Sanchez-Gonzalez 
+    - name: Vinicius Zambaldi
+    - name: Mateusz Malinowski
+    - name: Andrea Tacchetti
+    - name: David Raposo
+    - name: Adam Santoro
+    - name: Ryan Faulkner
+    - name: "**Caglar Gulcehre**"
+    - name: Francis Song
+    - name: Andrew Ballard
+    - name: Justin Gilmer
+    - name: George Dahl
+    - name: Ashish Vaswani
+    - name: Kelsey Allen
+    - name: Charles Nash
+    - name: Victoria Langston
+    - name: Chris Dyer
+    - name: Nicholas Hees
+    - name: Daan Wierstra
+    - name: Pushmeet Kohli
+    - name: Matt Botvinick
+    - name: Oriol Vinyals
+    - name: Yujia Li
+    - name: Razvan Pascanu
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1806.01261.pdf
+- title: "Hyperbolic Attention Networks"
+  time: 1805
+  image: HyperbolicSpaceCircles.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Misha Denil
+    - name: Mateusz Malinowski
+    - name: Ali Razavi
+    - name: Razvan Pascanu
+    - name: Karl Moritz Hermann
+    - name: Peter Battaglia
+    - name: Victor Bapst
+    - name: David Raposo
+    - name: Adam Santoro
+    - name: Nando de Freitas
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1805.09786.pdf
+- title: "Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes"
+  time: 1710
+  image: DNTM_schema.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Sarath Chandar
+    - name: Kyungyhun Cho
+    - name: Yoshua Bengio
+  venue: Neural Computation Journal
+  links: 
+    - name: PDF
+      url: https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01060
+- title: "Plan, Attend, Generate: Planning for Sequence to Sequence Models"
+  time: 1704
+  image: pag_model.png
+  description: Why?
+  authors: 
+    - name: Francis Dutil+
+    - name: "**Caglar Gulcehre+**"
+    - name: Adam Trishler
+    - name: Yoshua Bengio *(+ indicates equal contribution)*
+  venue: NIPS 2017 
+  links: 
+    - name: PDF
+      url: http://papers.nips.cc/paper/7131-plan-attend-generate-planning-for-sequence-to-sequence-models.pdf
+    - name: Code (Github)
+      url: https://github.com/Dutil/PAG
+- title: "Memory augmented neural networks with wormhole connections"
+  time: 1607
+  image: memory_wormhole_connections.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Sarath Chandar
+    - name: Yoshua Bengio
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1701.08718.pdf
+- title: "Mollifying Networks"
+  time: 1602
+  image: MollifyingNetworks.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Marcin Moczulski
+    - name: Francesco Visin
+    - name: Yoshua Bengio
+  venue: ICLR 2017
+  links: 
+    - name: PDF
+      url: https://arxiv.org/abs/1602.08465
+- title: "Pointing the Unknown Words"
+  time: 1510
+  image: PointingTheUnknownWords.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre"
+    - name: Sungjin Ahn
+    - name: Ramesh Nallapati
+    - name: Bowen Zhou
+    - name: Yoshua Begio
+  venue: ACL 2016
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1603.08148.pdf
+- title: "On integrating a language model into neural machine translation"
+  time: 1412
+  image: OnIncoorpMonolingualLMs.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Orhan Firat
+    - name: Kelvin Xu
+    - name: Kyunghyun Cho
+    - name: Yoshua Bengio
+  venue: Elsevier Computer, Speech and Language Journal
+  links: 
+    - name: PDF
+      url: https://www.sciencedirect.com/science/article/pii/S0885230816301395
+
+- title: "Noisy Activation Functions"
+  time: 1403
+  image: noisy_acts.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Marcin Moczulski
+    - name: Misha Denil
+    - name: Yoshua Bengio
+  venue: ICML 2015
+  links: 
+    - name: PDF
+      url: http://proceedings.mlr.press/v48/gulcehre16.pdf
+- title: "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization"
+  time: 1312
+  image: SFN_saddles.png
+  description: Why?
+  authors: 
+    - name: Yann Dauphin
+    - name: Razvan Pascanu
+    - name: "**Caglar Gulcehre**"
+    - name: Kyungyhun Cho
+    - name: Surya Ganguli
+    - name: Yoshua Bengio
+  venue: NIPS 2014
+  links: 
+    - name: PDF
+      url: https://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf
+- title: "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation"
+  time: 1312
+  image: word_clouds.png
+  description: Why?
+  authors: 
+    - name: Kyunghyun Cho
+    - name: Bart van Merrienboer
+    - name: "**Caglar Gulcehre**"
+    - name: Dzmitry Bahdanau
+    - name: Fethi Bougares
+    - name: Holger Schwenk
+    - name: Yoshua Bengio
+  venue: EMNLP 2014
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1406.1078.pdf
+- title: "Knowledge matters: Importance of prior information for optimization"
+  time: 1212
+  image: PentominoDataset.png
+  description: Why?
+  authors: 
+    - name: "**Caglar Gulcehre**"
+    - name: Yoshua Bengio
+  venue: JMLR 2016 (Extended Version), ICLR 2013
+  links: 
+    - name: PDF
+      url: http://www.jmlr.org/papers/volume17/gulchere16a/gulchere16a.pdf
+- title: "Policy Distillation"
+  time: 1105
+  image: policy_distill.png
+  description: Why?
+  authors: 
+    - name: Andrei Rusu
+    - name: Sergio Gomez Colmenarejo
+    - name: "**Caglar Gulcehre**"
+    - name: Guillaume Desjardins
+    - name: James Kirkpatrick
+    - name: Razvan Pascanu
+    - name: Volodymyr Mnih
+    - name: Koray Kavukcuoglu 
+    - name: Raia Hadsell
+  venue: ICLR 2016
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1511.06295.pdf
+- title: "How to construct deep recurrent neural networks"
+  time: 1108
+  image: how_to_construct_deeprnns.png
+  description: Why?
+  authors: 
+    - name: "Razvan Pascanu"
+    - name: "**Caglar Gulcehre**"
+    - name: Kyungyhyn Cho
+    - name: Yoshua Bengio
+  venue: "ICLR 2014"
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1312.6026.pdf
+- title: "Gated Orthogonal Recurrent Units: On Learning to Forget"
+  time: 1001
+  image: GORU.png
+  description: Why?
+  authors: 
+    - name: Li Jing+
+    - name: "**Caglar Gulcehre+**"
+    - name: John Peurifoy
+    - name: Yichen Shen
+    - name: Max Tegmark
+    - name: Marin Soljacic
+    - name: Yoshua Bengio *(+ indicates equal contribution)*
+  venue: Pre-Print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1706.02761.pdf
+- title: "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling"
+  time: 1000
+  image: GRU_eval.png
+  description: Why?
+  authors: 
+    - name: Junyoung Chung
+    - name: "**Caglar Gulcehre**"
+    - name: Kyungyhun Cho
+    - name: Yoshua Bengio 
+  venue: NIPS 2014 (workshop)
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1412.3555.pdf

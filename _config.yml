@@ -1,0 +1,16 @@
+# Site settings
+title: CAGLAR GULCEHRE
+email: ca9lar@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  **Research Scientist** at [DeepMind](https://deepmind.com/).<br> 
+  **Previously**: Applying deep learning
+  to natural language understading, memory, machine translation and optimization.
+  I was a PhD student at [MILA](https://mila.quebec/en/) group at University of Montreal, advised
+  by Professor Yoshua Bengio.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://caglar.github.io" # the base hostname & protocol for your site
+github_username:  caglar
+
+# Build settings
+markdown: kramdown

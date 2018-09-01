@@ -1,0 +1,16 @@
+- name: IBM TJ Watson Research
+  image: ibm_research.jpg
+  time: Winter 2016
+  url: https://www.research.ibm.com/labs/watson/
+- name: Deepmind
+  image: deepmind.png
+  time: 2008 - 2009
+  url: https://deepmind.com/
+- name: Tubitak 
+  image: tubitak.png
+  time: 2008 - 2011
+  url: http://tubitak.gov.tr/
+- name: METU
+  image: logo_metu.gif
+  time: 2008 - 2009
+  url: https://metu.edu
