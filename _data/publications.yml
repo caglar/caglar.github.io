@@ -1,3 +1,26 @@
+- title: "Sample Efficient Adaptive Text-to-Speech"
+  time: 1808
+  image: TTS_large.jpg
+  description: Why?
+  authors: 
+    - name: Yutian Chen
+    - name: Yannis Assael
+    - name: Brendan Shillingford
+    - name: David Budden 
+    - name: Scott Reed
+    - name: Heiga Zen
+    - name: Quan Wang
+    - name: Luis C. Cobo
+    - name: Andrew Trask
+    - name: Ben Laurie
+    - name: "**Caglar Gulcehre**"
+    - name: Aaron van den Oord
+    - name: Oriol Vinyals
+    - name: Nando de Freitas
+  venue: Pre-print
+  links: 
+    - name: PDF
+      url: https://arxiv.org/pdf/1809.10460.pdf
 - title: "Relational inductive biases, deep learning, and graph networks"
   time: 1807
   image: NbodyRelationalInductiveBiases.png
