@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://caglar.github.io/al-folio/sitemap.xml
+Sitemap: https://caglar.github.io/sitemap.xml
